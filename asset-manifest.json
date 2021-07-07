@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-WhatsAppClone/static/css/main.ab1eca94.chunk.css",
+    "main.css": "/React-WhatsAppClone/static/css/main.1aca890c.chunk.css",
     "main.js": "/React-WhatsAppClone/static/js/main.4c69c03b.chunk.js",
     "main.js.map": "/React-WhatsAppClone/static/js/main.4c69c03b.chunk.js.map",
     "runtime-main.js": "/React-WhatsAppClone/static/js/runtime-main.b64d7ade.js",
@@ -10,7 +10,7 @@
     "static/js/3.6359d518.chunk.js": "/React-WhatsAppClone/static/js/3.6359d518.chunk.js",
     "static/js/3.6359d518.chunk.js.map": "/React-WhatsAppClone/static/js/3.6359d518.chunk.js.map",
     "index.html": "/React-WhatsAppClone/index.html",
-    "static/css/main.ab1eca94.chunk.css.map": "/React-WhatsAppClone/static/css/main.ab1eca94.chunk.css.map",
+    "static/css/main.1aca890c.chunk.css.map": "/React-WhatsAppClone/static/css/main.1aca890c.chunk.css.map",
     "static/js/2.3d7de837.chunk.js.LICENSE.txt": "/React-WhatsAppClone/static/js/2.3d7de837.chunk.js.LICENSE.txt",
     "static/media/aa.14327386.jpg": "/React-WhatsAppClone/static/media/aa.14327386.jpg",
     "static/media/Chat.css": "/React-WhatsAppClone/static/media/bg.bded4f44.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b64d7ade.js",
     "static/js/2.3d7de837.chunk.js",
-    "static/css/main.ab1eca94.chunk.css",
+    "static/css/main.1aca890c.chunk.css",
     "static/js/main.4c69c03b.chunk.js"
   ]
 }
