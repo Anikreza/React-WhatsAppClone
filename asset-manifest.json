@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-WhatsAppClone/static/css/main.77fc61e5.chunk.css",
-    "main.js": "/React-WhatsAppClone/static/js/main.bd80d4e0.chunk.js",
-    "main.js.map": "/React-WhatsAppClone/static/js/main.bd80d4e0.chunk.js.map",
+    "main.js": "/React-WhatsAppClone/static/js/main.1909887e.chunk.js",
+    "main.js.map": "/React-WhatsAppClone/static/js/main.1909887e.chunk.js.map",
     "runtime-main.js": "/React-WhatsAppClone/static/js/runtime-main.4893311f.js",
     "runtime-main.js.map": "/React-WhatsAppClone/static/js/runtime-main.4893311f.js.map",
     "static/js/2.182c893d.chunk.js": "/React-WhatsAppClone/static/js/2.182c893d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4893311f.js",
     "static/js/2.182c893d.chunk.js",
     "static/css/main.77fc61e5.chunk.css",
-    "static/js/main.bd80d4e0.chunk.js"
+    "static/js/main.1909887e.chunk.js"
   ]
 }
