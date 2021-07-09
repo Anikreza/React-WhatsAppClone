@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-WhatsAppClone/static/css/main.1aca890c.chunk.css",
-    "main.js": "/React-WhatsAppClone/static/js/main.4c69c03b.chunk.js",
-    "main.js.map": "/React-WhatsAppClone/static/js/main.4c69c03b.chunk.js.map",
-    "runtime-main.js": "/React-WhatsAppClone/static/js/runtime-main.b64d7ade.js",
-    "runtime-main.js.map": "/React-WhatsAppClone/static/js/runtime-main.b64d7ade.js.map",
-    "static/js/2.3d7de837.chunk.js": "/React-WhatsAppClone/static/js/2.3d7de837.chunk.js",
-    "static/js/2.3d7de837.chunk.js.map": "/React-WhatsAppClone/static/js/2.3d7de837.chunk.js.map",
-    "static/js/3.6359d518.chunk.js": "/React-WhatsAppClone/static/js/3.6359d518.chunk.js",
-    "static/js/3.6359d518.chunk.js.map": "/React-WhatsAppClone/static/js/3.6359d518.chunk.js.map",
+    "main.css": "/React-WhatsAppClone/static/css/main.5401216c.chunk.css",
+    "main.js": "/React-WhatsAppClone/static/js/main.ead5009f.chunk.js",
+    "main.js.map": "/React-WhatsAppClone/static/js/main.ead5009f.chunk.js.map",
+    "runtime-main.js": "/React-WhatsAppClone/static/js/runtime-main.d4e15270.js",
+    "runtime-main.js.map": "/React-WhatsAppClone/static/js/runtime-main.d4e15270.js.map",
+    "static/js/2.3c1bce33.chunk.js": "/React-WhatsAppClone/static/js/2.3c1bce33.chunk.js",
+    "static/js/2.3c1bce33.chunk.js.map": "/React-WhatsAppClone/static/js/2.3c1bce33.chunk.js.map",
+    "static/js/3.f693c98b.chunk.js": "/React-WhatsAppClone/static/js/3.f693c98b.chunk.js",
+    "static/js/3.f693c98b.chunk.js.map": "/React-WhatsAppClone/static/js/3.f693c98b.chunk.js.map",
     "index.html": "/React-WhatsAppClone/index.html",
-    "static/css/main.1aca890c.chunk.css.map": "/React-WhatsAppClone/static/css/main.1aca890c.chunk.css.map",
-    "static/js/2.3d7de837.chunk.js.LICENSE.txt": "/React-WhatsAppClone/static/js/2.3d7de837.chunk.js.LICENSE.txt",
+    "static/css/main.5401216c.chunk.css.map": "/React-WhatsAppClone/static/css/main.5401216c.chunk.css.map",
+    "static/js/2.3c1bce33.chunk.js.LICENSE.txt": "/React-WhatsAppClone/static/js/2.3c1bce33.chunk.js.LICENSE.txt",
     "static/media/aa.14327386.jpg": "/React-WhatsAppClone/static/media/aa.14327386.jpg",
     "static/media/Chat.css": "/React-WhatsAppClone/static/media/bg.bded4f44.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b64d7ade.js",
-    "static/js/2.3d7de837.chunk.js",
-    "static/css/main.1aca890c.chunk.css",
-    "static/js/main.4c69c03b.chunk.js"
+    "static/js/runtime-main.d4e15270.js",
+    "static/js/2.3c1bce33.chunk.js",
+    "static/css/main.5401216c.chunk.css",
+    "static/js/main.ead5009f.chunk.js"
   ]
 }
