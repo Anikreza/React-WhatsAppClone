@@ -9,7 +9,7 @@ import {useStateValue} from "./StateProvider";
 
 function Chatbar ({addChat, name, id}) {
 
-       const [messages, setMessages]= useState(" ")
+       const [messages, setMessages]= useState("")
        const [seed, setSeed]=useState("")
        const [{user}, dispatch] = useStateValue();
 
@@ -26,9 +26,9 @@ function Chatbar ({addChat, name, id}) {
        useEffect(() => {
         setSeed(Math.floor(Math.random() * 5000));        
     }, []);
-
+ 
     const createChat=()=>{
-          const room=prompt("add new chat");
+          const room=user?.displayName;
           if(room){
               db.collection('rooms').add({
                   name: room,
@@ -43,7 +43,7 @@ function Chatbar ({addChat, name, id}) {
         <div className='sidebar-chat'>
                <Avatar  src={`https://avatars.dicebear.com/api/initials/${seed}.svg`}/>
              <div className='sidebar-chat-info'>
-                <h2>  {name}</h2>
+                <h2>  {name}'s Room</h2>
                 <p>{messages[0]?.message}</p>
              </div>
                    

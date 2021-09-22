@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Chat.css";
 import a from "./aa.jpg";
+import b from "./as.jpg";
 import { Avatar, IconButton } from "@material-ui/core";
 import { AttachFile, MoreVert, SearchOutlined } from "@material-ui/icons";
 import MicIcon from "@material-ui/icons/Mic";
@@ -129,7 +130,7 @@ const Chat = () => {
   return (
     <div className="chat">
       <div className="chat-header">
-        <Avatar src={a} />
+        <Avatar src={user.photoURL} />
         <div className="chat-header-info">
           <h3>{roomName}</h3>
 
@@ -161,19 +162,24 @@ const Chat = () => {
         </div>
       </div>
 
-      <div className="chat-body">
-        {messages.map((message) => (
+            
+             <div className={`chat-body ${
+              user.email !=='tanvirrezaanik@gmail.com'  && "hidden-photo" && 
+              user.email !=='jainfariha@gmail.com'  && "hidden-photo"  &&
+              user.email !=='anikreza22@gmail.com'  && "hidden-photo"
+            }`}>
+             
+           {messages.map((message) => (
           <p
             className={`message ${
-              message.name === user.displayName && "reciever"
+              message.name === user.displayName && "reciever"          
             }`}
           >
             
             {message.message} <img className="media" src={message.image} />
             <span className="sender-name"> {message.name} </span>
-            <span className='emoti'> {message.emoti} </span>
             <span className="timestamp">
-              {moment(messages.timestamp?.toDate()).format('LT')}
+              {moment(message.timestamp?.toDate()).format('LT')}
             </span>
           </p>
         ))}

@@ -15,11 +15,19 @@
     flex: 1;
     padding-left: 20px;
 }
+.hidden-photo p{
+    display: none;
+}
 
+.hidden-photo{
+  
+  opacity: 0;
+}
 .chat-header-info h3 {
     margin-bottom: 3px;
     font-weight: 500;
 }
+
 
 .chat-header-info > p {
     color:gray;
